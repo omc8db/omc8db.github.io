@@ -1,5 +1,5 @@
 ---
-title: "Two Meter Repeater Rebuild (2015)"
+title: "Two Meter Repeater Rebuild (2016)"
 excerpt: "In 2015 the W0EEE repeater controller began to fail"
 year: 2015
 category: 'Amateur Radio'

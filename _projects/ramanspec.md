@@ -8,11 +8,11 @@ header:
   teaser: spectro_ouptut.jpg
 sidebar:
   - title: "Role"
-    text: "Firmware Developer, Signal Processing"
+    text: "Firmware Developer, Board Design"
   - title: "Responsibilities"
     text: "Acquire data from linear CCD"
   - title: "Collaborators"
-    text: "Frank Marshall, Katie Brinkner, John Maruska"
+http://localhost:4000/images/spectro_setup.jpg    text: "Frank Marshall, Katie Brinkner, John Maruska"
 gallery:
   - image_path: spectro_ccd.jpg
     alt: "The Linear CCD on a prototype board"
@@ -25,7 +25,11 @@ gallery:
 
 {% include gallery caption="Developing data acquisition hardware" %}
 
+# Support Circuit Board
+
+![Schematic]({{base_url}}/images/science_board_schematic.png)
+![Layout]({{base_url}}/images/science_board_layout.png)
 
 A paper about this spectrometer has been published in the International Telemetering Conference.
 
-[Publication]({http://arizona.openrepository.com/arizona/handle/10150/596416){: .btn .btn--success .btn--large} [Source Code]({http://arizona.openrepository.com/arizona/handle/10150/596416){: .btn .btn--success .btn--large}
+[Publication](http://arizona.openrepository.com/arizona/handle/10150/596416){: .btn .btn--success .btn--large} [Github Repo](https://github.com/MST-MRDT/Deprecated-Science-Board){: .btn .btn--success .btn--large}
