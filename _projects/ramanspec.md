@@ -12,7 +12,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Acquire data from linear CCD"
   - title: "Collaborators"
-http://localhost:4000/images/spectro_setup.jpg    text: "Frank Marshall, Katie Brinker, John Maruska"
+    text: "Frank Marshall, Katie Brinker, John Maruska"
 gallery:
   - image_path: spectro_ccd.jpg
     alt: "The Linear CCD on a prototype board"
