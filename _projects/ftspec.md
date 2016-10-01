@@ -12,12 +12,12 @@ sidebar:
   - title: "Responsibilities"
     text: "Correct for vibration effects"
   - title: "Collaborators"
-    text: "Frank Marshall, Katie Brinkner, John Maruska"
+    text: "Frank Marshall, Katie Brinker, John Maruska"
 ---
 
 This year the rover team is building an FT-Raman Spectrometer. The monochometer used in previous years had no moving parts and projected the spectra onto a linear CCD. The sensitivity of the monochometer was limited by the resolution of the CCD and the size of its pixels.
 
-An FT-Raman Spectrometer operates on a different principle. It has one moving part - a slide with a mirror. As the mirror moves along the slide, the optical setup "selects" a different frequency to project onto the single sensor. This lets us use a much larger and higher sensitivity sensor. With perfectly smooth slide movement, the data on the sensor will theoretically sweep through all of the observed wavelengths. A plot of measurement time vs intensity should be identical to a measurement of frequency vs
+An FT-Raman Spectrometer operates on a different principle. It has one moving part - a slide with a mirror. As the mirror moves along the slide, the optical setup "selects" a different frequency to project onto the single sensor. This lets us use a much larger and higher sensitivity sensor. With perfectly smooth slide movement, the data on the sensor will theoretically sweep through all of the observed wavelengths. A plot of measurement time vs intensity should be identical to a plot of wavelength vs intensity.
 
 The problem with this design is that it assumes perfectly smooth slide movement. The wavelengths of light we care about (mostly visible) correspond to less than 1 micron of travel across the slide. Any imperfections in the slide or vibration could result in an unintelligible signal. We can't reach this precision mechanically within our budget, but we *can* provide a calibration signal that bounces off the same mirror and is sampled on another sensor simultaneously with the unknown sample spectra.
 

@@ -12,7 +12,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Acquire data from linear CCD"
   - title: "Collaborators"
-http://localhost:4000/images/spectro_setup.jpg    text: "Frank Marshall, Katie Brinkner, John Maruska"
+http://localhost:4000/images/spectro_setup.jpg    text: "Frank Marshall, Katie Brinker, John Maruska"
 gallery:
   - image_path: spectro_ccd.jpg
     alt: "The Linear CCD on a prototype board"
@@ -22,14 +22,14 @@ gallery:
     alt: "Logic Debugging"
 ---
 
+A paper about this spectrometer has been published in the International Telemetering Conference.
 
-{% include gallery caption="Developing data acquisition hardware" %}
+[Publication](http://arizona.openrepository.com/arizona/handle/10150/596416){: .btn .btn--success .btn--large} [Github Repo](https://github.com/MST-MRDT/Deprecated-Science-Board){: .btn .btn--success .btn--large}
 
 # Support Circuit Board
 
 ![Schematic]({{base_url}}/images/science_board_schematic.png)
 ![Layout]({{base_url}}/images/science_board_layout.png)
 
-A paper about this spectrometer has been published in the International Telemetering Conference.
 
-[Publication](http://arizona.openrepository.com/arizona/handle/10150/596416){: .btn .btn--success .btn--large} [Github Repo](https://github.com/MST-MRDT/Deprecated-Science-Board){: .btn .btn--success .btn--large}
+{% include gallery caption="Developing data acquisition hardware" %}
