@@ -1,5 +1,5 @@
 ---
-title: "Rover Signals Overhaul (2016)"
+title: "Rover Signals Redesign (2016)"
 excerpt: "Maintaining Telemetry and Control in RF Hostile Situations"
 category: 'Mars Rover Design Team'
 header:

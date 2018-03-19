@@ -22,9 +22,8 @@ feature_row:
     url: "/docs/license/"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'Senior in Computer Engineering at Missouri S&T.
-Mars Rover Design Team Signals & Science Guy.  
-Amateur Radio Enthusiast.'
+  - excerpt: 'Missouri S&T Mars Rover Design Team
+  2017 Autonomous Systems Lead & Professional FPGA Engineer'
 ---
 
 {% include feature_row id="intro" type="center" %}

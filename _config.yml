@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Owen Chiaventone"
 title_separator          : "-"
 name                     : "Owen Chiaventone"
-description              : "Programming. Engineering. Mars Rovers. Amateur Radio."
+description              : "Mars Rovers. Autonomous Systems. Computer Engineering"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Owen Chiaventone"
   avatar           : "bio-pic.jpg"
-  bio              : "Senior in Computer Engineering"
+  bio              : "Computer Engineer"
   location         : "Missouri S&T"
   email            : "ochiaventone@gmail.com"
   uri              :

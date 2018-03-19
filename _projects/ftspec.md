@@ -1,5 +1,5 @@
 ---
-title: "FT-Raman Spectrometer (Ongoing)"
+title: "FT-Raman Spectrometer (2016)"
 excerpt: "Signal processing algorithm development for next-generation on rover spectroscopy"
 year: Ongoing
 category: 'Mars Rover Design Team'
