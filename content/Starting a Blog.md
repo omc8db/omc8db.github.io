@@ -25,13 +25,17 @@ I won't even link the website here until I feel more confident it's secured.
 
 [My friend and colleague Robert Ruark keeps an excellent blog about his electronics projects](http://robruark.com/). He started with an HTML template and hand-writes the HTML for each page. This is not a bad approach and it seems to work well for him. 
 
-I slightly prefer markdown over HTML because I think it's more distraction free, so I went looking for somethign that was more or less like this but with markdown support. There were a few other nice-to-have features missing
+I slightly prefer markdown over HTML because I think it's more distraction free, so I went looking for something that was more or less like this but with markdown support. There were a few other nice-to-have features missing
 * Automatically generating menus based on my post categories
 * Scaling down images to web-size
 
 Still, this ended up being my #2 option.
 
-## Content Generators
+## Static Site Generators
+
+A static site generator is a program that takes a bunch of plain text or markdown files and fills in templates to turn them into a whole website. The "static" part comes from the fact that the templates are only run when you edit the code instead of on every page load. It produces a bunch of HTML files you can throw into any web server. There are some distinct advantages:
+* It's very hard to hack - the public facing website is just offering up files instead of a control interface. Compromise has to come through the git repo.
+* All the content can be cached by a Content Delivery Network (CDN)
 
 When I was applying to jobs out of college, I wrote a portfolio with Jekyll hosted on Github Pages. This was pretty reasonable, but I picked a theme with a mess of javascript and CSS and lots of custom shortcodes. I had a strong vision for what the portfolio should look like before I started. I sorted through all of the themes and hacked on one until it matched my vision. 
 

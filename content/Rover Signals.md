@@ -3,7 +3,7 @@ title = "Missouri S&T Mars Rover Radio Comms"
 date = 2016-08-01
 
 [taxonomies]
-tags = ["embedded", "college", "rover"]
+tags = ["school", "rover"]
 +++
 
 

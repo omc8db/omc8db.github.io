@@ -3,7 +3,7 @@ title = "Missouri S&T Mars Rover Autonav"
 date = 2017-06-15
 
 [taxonomies]
-tags = ["embedded", "college", "rover"]
+tags = ["school", "rover"]
 +++
 
 

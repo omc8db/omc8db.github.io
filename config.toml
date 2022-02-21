@@ -20,8 +20,9 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 anpu_menu_links = [
-    { url = "/", name = "Posts" },
-    { url = "/about/", name = "About" },
-    { url = "/tags/", name = "Tags" },
+    { url = "/about", name = "About" },
+    { url = "/", name = "All Posts" },
+    { url = "/tags/school", name = "School Projects" },
     { url = "https://github.com/omc8db", name="GitHub"}
 ]
+anpu_date_format="%B %Y"
